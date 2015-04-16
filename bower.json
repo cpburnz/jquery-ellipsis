@@ -1,12 +1,13 @@
 {
   "name": "jquery-ellipsis",
-  "version": "1.1.1",
-  "homepage": "https://github.com/STAR-ZERO/jquery-ellipsis",
+  "version": "1.1.2-cpburnz",
+  "homepage": "https://github.com/cpburnz/jquery-ellipsis",
   "authors": [
-    "Kenji Abe <kenji.01.star@gmail.com>"
+    "Kenji Abe <kenji.01.star@gmail.com>",
+    "Caleb P. Burns <cpburnz@gmail.com>"
   ],
-  "description": "Support multiple lines ellipsis",
-  "main": "dist/jquery.ellipsis.min.js",
+  "description": "Support truncating text after multiple lines with ellipses.",
+  "main": "dist/jquery.ellipsis.js",
   "keywords": [
     "jquery",
     "ellipsis"
