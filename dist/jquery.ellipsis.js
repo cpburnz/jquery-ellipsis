@@ -1,5 +1,5 @@
 /*! jQuery ellipsis - v1.1.2-cpburnz - 2015-04-16
-* https://github.com/STAR-ZERO/jquery-ellipsis
+* https://github.com/cpburnz/jquery-ellipsis
 * Copyright (c) 2014 Kenji Abe; Licensed MIT */
 (function($) {
     $.fn.ellipsis = function(options) {
