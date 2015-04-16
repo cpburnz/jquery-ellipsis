@@ -28,7 +28,7 @@
             var lineHeight =  parseFloat($this.css("lineHeight"), 10);
             var rowHeight = $this.height();
             var gapHeight = lineHeight > rowHeight ? (lineHeight - rowHeight) : 0;
-            var targetHeight = gapHeight * (options.row - 1) + rowHeight * options.row;
+            var targetHeight = Math.ceil(gapHeight * (options.row - 1) + rowHeight * options.row);
 
             if (origHeight <= targetHeight) {
                 $this.text(text);
