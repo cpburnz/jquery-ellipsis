@@ -1,6 +1,6 @@
 # jQuery ellipsis [![Build Status](https://travis-ci.org/STAR-ZERO/jquery-ellipsis.png?branch=master)](https://travis-ci.org/STAR-ZERO/jquery-ellipsis) [![Coverage Status](https://coveralls.io/repos/STAR-ZERO/jquery-ellipsis/badge.png?branch=master)](https://coveralls.io/r/STAR-ZERO/jquery-ellipsis?branch=master) [![Dependency Status](https://gemnasium.com/STAR-ZERO/jquery-ellipsis.png)](https://gemnasium.com/STAR-ZERO/jquery-ellipsis)
 
-Originally built by [Kenji Abe (STAR-ZERO)][kenji]
+Originally built by [Kenji Abe (STAR-ZERO)][kenji].
 
 [kenji]:https://github.com/STAR-ZERO
 
